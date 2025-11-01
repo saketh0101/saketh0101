@@ -1,4 +1,4 @@
-![Header]("C:\Users\saket\Pictures\png2jpg\github-header-banner.png")
+![Header](github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Saketh Kondavathri</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
